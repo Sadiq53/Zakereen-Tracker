@@ -1,0 +1,7 @@
+{
+  "name": "MemberTracker Pro",
+  "description": "A mobile-first member management and attendance tracking system designed for speed and reliability.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
